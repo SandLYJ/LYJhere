@@ -1,19 +1,10 @@
+
 ### Hi there 👋
-</p>
 
-</p>
-<!--START_SECTION:waka-->
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=LYJhere&theme=tokyonight&show_icons=true&count_private=true"  alt=""/>
-</p>
+My name is <em>Li Yong-jun</em>. Currently, I am pursuing my master’s degree at the College of Mathematics and Informatics, South China Agricultural University. My research interests include deep clustering, self-supervised representation learning. You can find me by my email:l1730114051@gmail.com.
 
-</p>
-</p>
-<p align="center" >
-  <samp>
-     My name is <em>Li Yong-jun</em>. I have recived my B.S. degree in ZZUT in 2023.<br/>    
-    <br>Currently, I am pursuing my master’s degree at the College of Mathematics and Informatics, South China Agricultural University.</br> 
-    <br>My research interests include deep clustering, self-supervised representation learning...</br>
-    You can find me by my email:l1730114051@gmail.com
-</samp>
-</p>
+<hr>
+
+<a href="https://github.com/zhoushengisnoob/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zhoushengisnoob&show_icons=true&theme=gotham"></a>
+
+<hr>
