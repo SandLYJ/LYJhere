@@ -3,7 +3,8 @@
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=LYJhere&theme=tokyonight&show_icons=true&count_private=true"  alt=""/>
 </p>
-
+</p>
+</p>
 <p align="center" >
   <samp>
      My name is <em>Li Yong-jun</em>. I have recived my B.S. degree in Information Engineering from Wuhan Institute of Technology in 2023.<br/>    
