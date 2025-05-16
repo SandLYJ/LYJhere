@@ -5,6 +5,6 @@ My name is <em>Li Yong-jun</em>. Currently, I am pursuing my master’s degree a
 
 <hr>
 
-<a href="https://github.com/LYJhere/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=LYJhere&show_icons=true&theme=gotham"></a>
+<a href="https://github.com/SandLYJ/LYJhere/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=SandLYJ/LYJhere&show_icons=true&theme=gotham"></a>
 
 <hr>
