@@ -35,10 +35,6 @@ I'm currently pursuing my master's degree at the **College of Mathematics and In
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SandLYJ&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandLYJ&layout=compact&theme=radical" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandLYJ&theme=radical" alt="GitHub Streak" />
